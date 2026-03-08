@@ -1,2 +1,4 @@
 helllooooooo i updated 
+instead of git fetch and merge i can use pull 
+
 ihwdcjkwdj
